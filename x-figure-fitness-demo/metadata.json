@@ -1,0 +1,6 @@
+{
+  "name": "X Figure Fitness",
+  "description": "Kerala's top-rated fitness sanctuary featuring programs, gallery, testimonials, interactive calculators, and membership booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
